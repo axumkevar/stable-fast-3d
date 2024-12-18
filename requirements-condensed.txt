@@ -5,7 +5,7 @@ torchvision
 aiohttp
 albumentations
 commentjson
-dataclasses==0.8
+dataclasses
 ddict
 dlib==19.22.1
 einops
