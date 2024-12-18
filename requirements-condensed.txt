@@ -15,14 +15,11 @@ fvcore
 gdown==4.2.0
 gpytoolbox==0.2.0
 huggingface_hub
-imageio
-imageio-ffmpeg==0.4.3
 importlib_metadata
 jaxtyping==0.2.31
 kornia>=0.7.1
 matplotlib
 mediapipe
-numpy
 omegaconf
 omegaconf==2.3.0
 open_clip_torch==2.24.0
